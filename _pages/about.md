@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Welcome to my official website!
+
 I am a PhD student in Department of Statistics and Probability at Michigan State University. My research interests include Functional Data Analysis, Modeling of Massive and Complex Data, Multiple Testing Problems, Nonparametric Statistical Methods, Statistics in Neuroimaging and Health Science. I am also interested in solving statistical challenges which appears with wide range applications in modern science and industry. My academic advisors are Dr. Tapabrata (Taps) Maiti and Dr. Pingshou Zhong. 
 
 
