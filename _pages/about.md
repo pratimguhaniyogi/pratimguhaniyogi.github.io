@@ -23,5 +23,5 @@ Michigan State University <br/>
 619 Red Cedar Road, C511 <br/>
 East Lansing, MI 48824
 
-Email: guhaniyo@msu.edu 
+Email: guhaniyo@msu.edu <br/>
 Alternative Email: pgniyogi@gmail.com
