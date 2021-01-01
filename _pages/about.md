@@ -20,3 +20,6 @@ Department of Statistics and Probability <br/>
 Michigan State University <br/>
 619 Red Cedar Road, C511 <br/>
 East Lansing, MI 48824
+
+Email: guhaniyo@msu.edu 
+Alternative Email: pgniyogi@gmail.com
