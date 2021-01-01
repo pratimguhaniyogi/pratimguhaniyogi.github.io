@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pratim Guha Niyogi"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "MI, USA"
-  employer         : "Department of Statistics and Probability <br/> Michigan State University"
+  bio              : "PhD Student in Statistics"
+  location         : #"MI, USA"
+  employer         : "Department of Statistics and Probability, Michigan State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en"
   email            : "guhaniyo@msu.edu"
