@@ -18,7 +18,7 @@ After Bachelors, I got opportunity to study at [Indian Statistical Institute (IS
 
 Outside studies, I enjoy cooking (North Indian, Bengali, Italian and Indo-Chinese cuisines), watching movies, traveling.
 
-Contact Informations: 
+Contact Informations
 ------
 Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
 Department of Statistics and Probability <br/>
