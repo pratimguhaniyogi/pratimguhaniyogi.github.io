@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <(In reverse chronological order)>
+  (In reverse chronological order)
 </p>
 
 * Received Dissertation Continuation Fellowship from College of Natural Science, Michigan State University for Fall 2020
