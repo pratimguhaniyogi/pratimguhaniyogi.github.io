@@ -27,4 +27,4 @@ Publications:
 
 * Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu (2019): A Weighted Likelihood Approach to Problems in Survival Data: *Sankhya B*
 
-* Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu: Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data: *Manuscript available at [TECHNICAL REPORT NO. ISRU/2018/2](https://www.isical.ac.in/~isru/tr18a.pdf) *
+* Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu: Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data: *Manuscript available at [TECHNICAL REPORT NO. ISRU/2018/2](https://www.isical.ac.in/~isru/tr18a.pdf)*
