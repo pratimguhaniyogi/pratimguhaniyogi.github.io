@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interests:  <b\>
+Research Interests: 
+---
 Functional Data Analysis <b\>
 Modeling of Massive and Complex data <b\>
 Multiple Testing Problems <b\>
