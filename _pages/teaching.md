@@ -7,13 +7,13 @@ author_profile: true
 
 I have worked as a Graduate Teaching Assistant for the following courses at **Michigan State University**:
 
-* STT 200 (Online): Statistical Methods, *Fall 2016* <br\>
+* STT 200 (Online): Statistical Methods, *Fall 2016* <br/>
 This course is an introductory statistics course for undergraduates which covers methods for exploring data, organization, different kind of data structure, descriptive statistics, concepts of basic probability, independent events, basic concepts of estimation, testing of hypotheses, confidence interval, p-value, basic regression.
 
-* STT 201: Statistical Methods, *Spring 2017* <br\>
+* STT 201: Statistical Methods, *Spring 2017* <br/>
 This course in an introductory statistics course for undergraduates with includes exploring data, organization, different kind data structure, descriptive statistics, concepts of basic probability, independent events, basic concepts of estimation, testing of hypotheses, confidence interval, p-value, basic regression. In this course, MINITAB is also includes to have hands on experience to solve statistical problems using some useful software. 
 
-* STT 315 (Online): Introduction to Probability and Statistics for Business, *Summer 2017* <br\>
+* STT 315 (Online): Introduction to Probability and Statistics for Business, *Summer 2017* <br/>
 This is a first course in probability and statistics primarily for business majors.  It covers  introduction to data Analysis, probability models, concepts of random variables, estimation, confidence intervals, testing of hypotheses with applications in business.
 
 
