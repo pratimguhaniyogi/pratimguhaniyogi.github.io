@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pratim Guha Niyogi"
 title_separator          : "-"
-name                     : &name "Pratim Guha Niyogi"
+name                     : &name ""
 description              : &description "PhD Student in Statistics"
 url                      : https://pratimguhaniyogi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
