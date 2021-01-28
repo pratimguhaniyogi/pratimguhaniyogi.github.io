@@ -14,7 +14,7 @@ description              : &description "PhD Student in Statistics"
 url                      : https://pratimguhaniyogi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pratimguhaniyogi/pratimguhaniyogi.github.io"
-teaser                   : "/images/IMG-20210128-WA0002.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pratim Guha Niyogi"
-  avatar           : "profile.png"
+  avatar           : "IMG-20210128-WA0002.jpg"
   bio              : "PhD Student in Statistics <br/> Department of Statistics and Probability <br/> Michigan State University"
   location         : "MI, USA"
   employer         : 
