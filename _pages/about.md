@@ -21,7 +21,7 @@ Outside studies, I enjoy cooking (North Indian, Bengali, Italian and Indo-Chines
 Contact Informations
 ------
 Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
-Pronouns: he, him, his <br/>
+Pronouns: he/him/his <br/>
 Department of Statistics and Probability <br/>
 Michigan State University <br/>
 619 Red Cedar Road, C511 <br/>
