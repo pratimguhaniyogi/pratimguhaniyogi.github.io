@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pratim Guha Niyogi"
+title                    : "Pratim Guha Niyogi  <br/> (প্রতিম গুহ নিয়োগী)"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "PhD Student in Statistics"
