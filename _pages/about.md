@@ -16,8 +16,6 @@ I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in state of West 
 After Bachelors, I got opportunity to study at [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) and graduated with *Master of Statistics (M.Stat.)*. ISI is well known for its research in Statistics, Mathematics and Economics.
 
 
-Outside studies, I enjoy cooking (North Indian, Bengali, Italian and Indo-Chinese cuisines), watching movies, traveling.
-
 Contact Informations
 ------
 Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
