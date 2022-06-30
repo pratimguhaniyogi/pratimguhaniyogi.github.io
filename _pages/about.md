@@ -30,7 +30,7 @@ When I am not working, I usually experiment with cooking, especially Indian and 
 Thanks for stopping by at my website! 
 
 
-Contact Informations
+contact informations
 ------
 Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
 Pronouns: he/him/his <br/>
