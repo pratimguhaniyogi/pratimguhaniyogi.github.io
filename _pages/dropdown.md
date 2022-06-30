@@ -1,12 +1,12 @@
 ---
 layout: page
 title: research
-<!-- nav: true
-nav_order: 5 -->
+nav: true
+nav_order: 2
 dropdown: true
 children: 
     - title: research interests
-      permalink: /projects/
+      permalink: /interests/
     - title: divider
     - title: publications
       permalink: /publications/
