@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>PhD Candidate </a>. Department of Statistics and Probability, Michigan State University
 
 profile:
   align: right
@@ -18,8 +18,26 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, this is Pratim. I am a PhD candidate in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University (MSU)](https://msu.edu/) working under the supervison of  Dr. [Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and Dr. [Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). My research primarily focuses on Functional Data Analysis and Modeling of Massive and Complex Data. Some of my other research interests are Multiple Testing Problems, High Dimensional Statistical Methods and Nonparametric Statistical Methods. I am passionate about problems in Statistics that have wide range of applications in modern science and industry especially in the field of Neuroimaging and Helth Sciences. I have over 3 years of experience as research assistant on a project in the College of Nursing at MSU with [Dr. Alla Sikorskii](https://psychiatry.msu.edu/about/faculty-directory/Sikorskii.html). This project that dealt with Cancer patients and their caregivers gave me an exposure in dealing with real patient data and was a learning opportunity in terms of handling raw data, assuring data quality, managing data and conducting the statistical analyses. It was a fulfilling experience for me to contribute to cancer patients and survivors although passively. I also have experience in working at National Labs and conducting collaborative research at various academic institutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Apart from research, I am also passionate about teaching. I have had experience of teaching and tutoring undergraduate Statistics students at MSU for over 4 years. My teaching philosophy has developed from my own experiences as a student and by observing my students. My experience so far has taught me to appreciate the diversity of cultural and educational background; present numerous examples; talk to the students regarding their problems and most importantly create an approachable and inclusive environment in the class for the utmost benefit of students. I look forward to a career involving active reasearch and teaching.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As for my background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. I went to Hare School, Kolkata for my school education. After that, I received a *Bachelor of Science with Honors (B.Sc. (H))* from [Presidency University, Kolkata](https://www.presiuniv.ac.in/web/) which is an esteemed institution whose alumni consist of renowned personalities, including some Nobel Laureates. During my school and college days, I spent 13 years of my life roaming around Kolkata's College Street, which is home to the largest collection of second hand books in the world. I have been intellectually stimulated in this wonderful environment with scent of new and old books,. This palce has perhps shaped me for who I am and therefore deserves a mention in my bio. I was selected to study *Master of Statistics (M.Stat.)* at [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) which is a well known institute for research in Statistics, Mathematics and Economics. In 2016, I set foot in USA for pursuing a PhD in Statistics at Michigan State University, which is also home to many well known Statisticians. 
+
+When I am not working, I usually experiment with cooking, especially Indian and Chinese food and listen to Indian classical music. I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
+
+
+Thanks for stopping by at my website! 
+
+
+Contact Informations
+------
+Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
+Pronouns: he/him/his <br/>
+Department of Statistics and Probability <br/>
+Michigan State University <br/>
+619 Red Cedar Road, C511 <br/>
+East Lansing, MI 48824
+
+Email: guhaniyo@msu.edu <br/>
+Alternative Email: pgniyogi@gmail.com
