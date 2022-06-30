@@ -6,7 +6,7 @@ description: Course page and informations
 nav: true
 nav_order: 2
 ---
-at `Michigan State University`:
+At `Michigan State University`:
 
 - Instructor, STT 200: Statistical Methods (Summer 2022, 2021)
 - TA, STT 200: Statistical Methods (Spring 2022)
@@ -16,9 +16,9 @@ at `Michigan State University`:
 - TA, STT 201: Statistical Methods (Spring 2017)
 - TA, STT 200 (Online): Statistical Methods (Fall 2016)
 
-* Tutor, Statistical Learning Center (Fall 2016, Spring 2017, Summer 2017, Spring 2022) 
+- Tutor, Statistical Learning Center (Fall 2016, Spring 2017, Summer 2017, Spring 2022) 
 
-* I have taken a seminar-style course AAE 452 "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. 
+- I have taken a seminar-style course AAE 452 "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. 
 
 
 To get my teaching statement with teaching philosophy please email me at *guhaniyo@msu.edu*.
