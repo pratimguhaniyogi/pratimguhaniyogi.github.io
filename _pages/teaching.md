@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Course page and informations
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 At `Michigan State University`:
 
