@@ -7,9 +7,8 @@ nav: true
 nav_order: 2
 ---
 `Research Interests`: 
----
 <ol>
-<li> <\Statistical Interests:>
+<li> </Statistical Interests:>
     <ol>
         <li> Functional Data Analysis </li>
         <li> Modeling of Massive and Complex data </li>
@@ -17,7 +16,7 @@ nav_order: 2
         <li> High Dimensional Statistical Inference </li>
         <li> Nonparametric Statistical Methods</li>
     </ol></li>
-<li> <\Scientific Interests:>
+<li> </Scientific Interests:>
     <ol>
         <li> Wearables </li>
         <li>Neuroimaging</li>
