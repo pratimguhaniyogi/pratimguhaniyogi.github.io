@@ -24,16 +24,7 @@ nav_order: 2
         <li>Health Sciences</li>
     </ol></li>
 </ol>
-
-\item[] \texttt{Scientific Interests:} Neuroimaging and Health Sciences
     
-Functional Data Analysis <br/>
-Modeling of Massive and Complex data <br/>
-Multiple Testing Problems <br/>
-High Dimensional Statistical Inference <br/>
-Nonparametric Statistical Methods <br/>
-Statistics in Neuroimaging and Health Science <br/>
-
 I have a broad research interests in theoretical and methodological research in Statistics motivated by fundamental application in neuroimaging and other interdisciplinary collaborations. 
 
 ---
