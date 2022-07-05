@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: page
 title: research
-nav: true
-nav_order: 2
-dropdown: true
+#nav: true
+#nav_order: 2
+#dropdown: true
 children: 
     - title: research interests
       permalink: /interests/
@@ -12,4 +12,4 @@ children:
       permalink: /publications/
 
 ---
- -->
+
