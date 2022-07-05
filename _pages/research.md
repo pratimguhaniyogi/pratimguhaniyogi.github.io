@@ -8,6 +8,25 @@ nav_order: 2
 ---
 `Research Interests`: 
 ---
+<ol>
+<li> <\Statistical Interests:>
+    <ol>
+        <li> Functional Data Analysis </li>
+        <li> Modeling of Massive and Complex data </li>
+        <li> Multiple Testing Problems </li>
+        <li> High Dimensional Statistical Inference </li>
+        <li> Nonparametric Statistical Methods</li>
+    </ol></li>
+<li> <\Scientific Interests:>
+    <ol>
+        <li> Wearables </li>
+        <li>Neuroimaging</li>
+        <li>Health Sciences</li>
+    </ol></li>
+</ol>
+
+\item[] \texttt{Scientific Interests:} Neuroimaging and Health Sciences
+    
 Functional Data Analysis <br/>
 Modeling of Massive and Complex data <br/>
 Multiple Testing Problems <br/>
