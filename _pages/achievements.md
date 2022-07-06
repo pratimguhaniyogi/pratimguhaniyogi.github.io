@@ -2,14 +2,10 @@
 layout: page
 permalink: /achievements/
 title: achievements
-description: 
+description: (In reverse chronological order)
 nav: true
 nav_order: 4
 ---
-
-<p align="center">
-  (In reverse chronological order)
-</p>
 
 * Received Dissertation Continuation Fellowship from College of Natural Science, Michigan State University for Fall 2020
 * Selected for internship in Mathematical Sciences Graduate Internship (MSGI) program at Oak Ridge National Laboratory sponsored by National Science Foundation (NSF), Division of Mathematical Sciences (DMS), Summer 2020
