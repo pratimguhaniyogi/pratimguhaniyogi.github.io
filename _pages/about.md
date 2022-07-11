@@ -29,6 +29,8 @@ When I am not working, I usually experiment with cooking, especially Indian and 
 
 Thanks for stopping by at my website! 
 
+<b> If you want to reach out for collaboration, discussion or just to chat, please feel free to email me at guhaniyo@msu.edu. (I check my email regularly) </b>
+
 
 contact informations
 ------
