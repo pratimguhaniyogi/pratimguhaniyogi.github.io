@@ -59,7 +59,7 @@ github_username: pratimguhaniyogi # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: PratimNiyogi # your Twitter handle
 linkedin_username: pratim-guha-niyogi-591bbb10b # your LinkedIn user name
-scholar_userid: https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: k62UkCEAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0003-2439-9047 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -72,8 +72,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-# contact_note: >
-#   You can even add a little note about which of these is the best way to reach you.
+contact_note: >
+  E-mail is the best way to get in touch with me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
