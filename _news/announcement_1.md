@@ -5,4 +5,5 @@ inline: true
 ---
 
 Successfully defended Ph.D. dissertation works with title "_Novel Methods for Functional Data Analysis with Applications to Neuroimaging Studies_". 
-![Photo link](https://github.com/pratimguhaniyogi/pratimguhaniyogi.github.io/blob/master/assets/img/grad_pgn.jpeg)
+![Photo link](./img/grad_pgn.jpeg)
+<!-- <img src="./images/lasagna.png" alt="hi" class="inline"> -->
