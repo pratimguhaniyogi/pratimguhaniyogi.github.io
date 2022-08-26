@@ -28,4 +28,4 @@ I have a broad research interests in theoretical and methodological research in 
 Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. 
 
 ---
-To get my detail research statement please email me at *guhaniyo@msu.edu*.
+To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
