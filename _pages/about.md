@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate </a>. Department of Statistics and Probability, Michigan State University
+subtitle: <a href='#'> Postdoctoral Fellow </a>. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
 
 profile:
   align: right
@@ -18,7 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is Pratim. I am a PhD candidate in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University (MSU)](https://msu.edu/) working under the supervison of  [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). My research primarily focuses on functional data analysis and modeling of massive and complex data. Some of my other research interests are Multiple Testing Problems, High Dimensional Statistical Methods and Nonparametric Statistical Methods. I am passionate about problems in statistics that have wide range of applications in modern science and industry especially in the field of neuroimaging and helth sciences. I have over 3 years of experience as research assistant on a project in the College of Nursing at MSU with [Dr. Alla Sikorskii](https://psychiatry.msu.edu/about/faculty-directory/Sikorskii.html). This project that dealt with cancer patients and their caregivers gave me an exposure in dealing with real patient data and was a learning opportunity in terms of handling raw data, assuring data quality, managing data and conducting the statistical analyses. It was a fulfilling experience for me to contribute to cancer patients and survivors although passively. I also have experience in working at national labs and conducting collaborative research at various academic institutions.
+Hi, this is Pratim. I am a postdoctoral fellow in the [Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/departments/biostatistics) mentored by [Dr. Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/). 
+My research primarily focuses on functional data analysis and modeling of massive and complex data. Some of my other research interests are Multiple Testing Problems, High Dimensional Statistical Methods and Nonparametric Statistical Methods. I am passionate about problems in statistics that have wide range of applications in modern science and industry especially in the field of neuroimaging and helth sciences.
+
+I received my PhD degree in [Statistics](https://stt.natsci.msu.edu/) from  [Michigan State University (MSU)](https://msu.edu/) under the supervison of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/) where I worked on the development of statistical methodologies in functional data analysis with the application in neuroimaging. Simultaneously, I have over 3 years of experience as research assistant on a project in the College of Nursing at MSU with [Dr. Alla Sikorskii](https://psychiatry.msu.edu/about/faculty-directory/Sikorskii.html). This project dealt with cancer patients and their caregivers gave me an exposure in dealing with real patient data and was a learning opportunity in terms of handling raw data, assuring data quality, managing data and conducting the statistical analyses. It was a fulfilling experience for me to contribute to cancer patients and survivors although passively. I also have experience in working at national labs and conducting collaborative research at various academic institutions during my doctoral training.
 
 Apart from research, I am also passionate about teaching. I have had experience of teaching and tutoring undergraduate statistics students at MSU for over 4 years. My teaching philosophy has developed from my own experiences as a student and by observing my students. My experience so far has taught me to appreciate the diversity of cultural and educational background; present numerous examples; talk to the students regarding their problems and most importantly create an approachable and inclusive environment in the class for the utmost benefit of students. I look forward to a career involving active reasearch and teaching.
 
@@ -26,20 +29,19 @@ As for my background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolka
 
 When I am not working, I usually experiment with cooking, especially Indian and Chinese food and listen to Indian classical music. I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
-
 Thanks for stopping by at my website! 
 
-<b> If you want to reach out for collaboration, discussion or just to chat, please feel free to email me at guhaniyo@msu.edu. (I check my email regularly) </b>
+<b> If you want to reach out for collaboration, discussion or just to chat, please feel free to email me at pnyogi1@jhmi.edu. (I check my email regularly) </b>
 
 
 contact informations
 ------
 Pratim Guha Niyogi (প্রতিম গুহ নিয়োগী) <br/>
 Pronouns: he/him/his <br/>
-Department of Statistics and Probability <br/>
-Michigan State University <br/>
-619 Red Cedar Road, C511 <br/>
-East Lansing, MI 48824
+Department of Biostatistics <br/>
+Johns Hopkins Bloomberg School of Public Health <br/>
+E3136 615 North Wolfe Street <br/>
+Baltimore, MD, 21205 <br/>
 
-Email: guhaniyo@msu.edu <br/>
+Email: pnyogi1@jhmi.edu <br/>
 Alternative Email: pgniyogi@gmail.com
