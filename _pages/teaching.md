@@ -21,4 +21,4 @@ At `Michigan State University`:
 - I have taken a seminar-style course AAE 452 "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. 
 
 
-To get my teaching statement with teaching philosophy please email me at *guhaniyo@msu.edu*.
+To get my teaching statement with teaching philosophy please email me at *pnyogi1@jhmi.edu*.
