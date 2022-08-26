@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Postdoctoral Fellow </a>. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
+<!-- subtitle: <a href='#'> Postdoctoral Fellow </a>. Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health -->
 
 profile:
   align: right
