@@ -6,7 +6,8 @@ description: Informations
 nav: true
 nav_order: 2
 ---
-`Research Interests`: 
+<h2> `Research Interests`: </h2>
+
 <ol>
 <li> <TT>Statistical Interests: </TT>
     <ol>
