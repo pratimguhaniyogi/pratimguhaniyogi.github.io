@@ -17,4 +17,4 @@ At `Michigan State University`:
 - TA, STT 200 (Online): Statistical Methods (Fall 2016)
 - Tutor, Statistical Learning Center (Fall 2016, Spring 2017, Summer 2017, Spring 2022) 
 
-I have taken a seminar-style course AAE 452 "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. To get my teaching statement with teaching philosophy please email me at *pnyogi1@jhmi.edu*.
+I have taken a seminar-style course AAE 452 (at MSU) "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. To get my teaching statement with teaching philosophy please email me at *pnyogi1@jhmi.edu*.
