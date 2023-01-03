@@ -9,7 +9,7 @@ nav_order: 2
 <h4> Research Interests </h4>
 
 <ol>
-<li> <TT> `Statistical Interests: </TT>
+<li> <TT> Statistical Interests: </TT>
     <ol>
         <li> Functional and Distributional Data Analysis </li>
         <li> Modeling of Massive and Complex data </li>
