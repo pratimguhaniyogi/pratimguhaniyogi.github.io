@@ -6,7 +6,7 @@ description: Interests and publications
 nav: true
 nav_order: 2
 ---
-<h4> Research Interests </h4>
+<h3> Research Interests </h3>
 
 <ol>
 <li> <TT>Statistical Interests:</TT>
@@ -28,7 +28,7 @@ I have a broad research interests in theoretical and methodological research in 
 Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
 
 ---
-<h4> Publications </h4>
+<h3> Publications </h3>
 
 **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
         [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/pdf/2207.08373.pdf).
