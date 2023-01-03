@@ -57,9 +57,3 @@ Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu.
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
     [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf).
     *Technical Report* (2018)
-    
-<ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-</ol>    
