@@ -10,9 +10,8 @@ nav_order: 2
 <ol>
 <li> <TT>Statistical Interests: </TT>
     <ol>
-        <li> Functional Data Analysis </li>
+        <li> Functional and Distributional Data Analysis </li>
         <li> Modeling of Massive and Complex data </li>
-        <li> Multiple Testing Problems </li>
         <li> High Dimensional Statistical Inference </li>
         <li> Nonparametric Statistical Methods</li>
     </ol></li>
@@ -25,7 +24,6 @@ nav_order: 2
 </ol>
     
 I have a broad research interests in theoretical and methodological research in Statistics motivated by fundamental application in neuroimaging and other interdisciplinary collaborations. 
-Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. 
+Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
 
 ---
-To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
