@@ -6,10 +6,10 @@ description: Informations
 nav: true
 nav_order: 2
 ---
-<h2> `Research Interests`: </h2>
+<h2> Research Interests </h2>
 
 <ol>
-<li> <TT>Statistical Interests: </TT>
+<li> <TT> `Statistical Interests:` </TT>
     <ol>
         <li> Functional and Distributional Data Analysis </li>
         <li> Modeling of Massive and Complex data </li>
@@ -28,7 +28,7 @@ I have a broad research interests in theoretical and methodological research in 
 Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
 
 ---
-`Publications`: 
+<h2> Publications </h2>
 
 **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
         [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/pdf/2207.08373.pdf).
@@ -55,5 +55,5 @@ Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu.
         <u> Sankhya B </u> 83, no. 2 (2019): 466-492.
 
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
-    [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf}).
+    [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf).
     <u> Technical Report </u> (2018)
