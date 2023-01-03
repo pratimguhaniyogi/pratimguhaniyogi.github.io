@@ -46,7 +46,7 @@ Brandon A. Coughlin, **Pratim Guha Niyogi**, Alla Sikorskii, Louis C. Glazer, Su
         [Ranibizumab Alters Levels of Intraocular Soluble Cytokine Receptors in Patients with Diabetic Macular Edema"](https://www.tandfonline.com/doi/abs/10.1080/02713683.2019.1665187). 
         <u> Current Eye Research </u> 45, no. 4 (2020): 509-520.
 
-Alla Sikorskii, **Pratim Guha Niyogi**, David Victorson, Deimante Tamkus, and Gwen Wyatt (2020).
+<!-- Alla Sikorskii, **Pratim Guha Niyogi**, David Victorson, Deimante Tamkus, and Gwen Wyatt (2020).
         [Symptom response analysis of a randomized controlled trial of reflexology for symptom management among women with advanced breast cancer](https://link.springer.com/article/10.1007/s00520-019-04959-y).
         <u> Supportive Care in Cancer 28 </u>, no. 3 (2020): 1395-1404.
 
@@ -57,3 +57,4 @@ Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu (2019
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
     [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf}).
     <u> Technical Report </u> (2018)
+ -->
