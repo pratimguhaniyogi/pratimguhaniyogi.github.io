@@ -11,7 +11,7 @@ nav_order: 2
 <ol>
 <li> <TT>Statistical Interests:</TT>
     <ol>
-        <li> <u>Functional and Distributional Data Analysis</u> </li>
+        <li> Functional and Distributional Data Analysis </li>
         <li> Modeling of Massive and Complex data </li>
         <li> High Dimensional Statistical Inference </li>
         <li> Nonparametric Statistical Methods</li>
