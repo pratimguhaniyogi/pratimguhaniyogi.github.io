@@ -42,19 +42,20 @@ Gwen Wyatt, Rebecca Lehto, **Pratim Guha Niyogi**, Sarah Brewer, David Victorson
         [Reflexology and meditative practices for symptom management among people with cancer: Results from a sequential multiple assignment randomized trial.](https://onlinelibrary.wiley.com/doi/abs/10.1002/nur.22169).
         <u> Research in Nursing & Health </u> 44, no. 5 (2021): 796-810.
 
-Brandon A. Coughlin, **Pratim Guha Niyogi**, Alla Sikorskii, Louis C. Glazer, Susanne Mohr (2020).
+Brandon A. Coughlin, **Pratim Guha Niyogi**, Alla Sikorskii, Louis C. Glazer, Susanne Mohr.
         [Ranibizumab Alters Levels of Intraocular Soluble Cytokine Receptors in Patients with Diabetic Macular Edema"](https://www.tandfonline.com/doi/abs/10.1080/02713683.2019.1665187). 
         <u> Current Eye Research </u> 45, no. 4 (2020): 509-520.
 
-<!-- Alla Sikorskii, **Pratim Guha Niyogi**, David Victorson, Deimante Tamkus, and Gwen Wyatt (2020).
+Alla Sikorskii, **Pratim Guha Niyogi**, David Victorson, Deimante Tamkus, and Gwen Wyatt.
         [Symptom response analysis of a randomized controlled trial of reflexology for symptom management among women with advanced breast cancer](https://link.springer.com/article/10.1007/s00520-019-04959-y).
         <u> Supportive Care in Cancer 28 </u>, no. 3 (2020): 1395-1404.
 
-Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu (2019). 
+<!-- Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu. 
 [A Weighted Likelihood Approach to Problems in Survival Data](https://link.springer.com/article/10.1007/s13571-019-00214-w).
-        <u> Sankhya B </u> 83, no. 2 (2021): 466-492.
+        <u> Sankhya B </u> 83, no. 2 (2019): 466-492.
 
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
     [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf}).
     <u> Technical Report </u> (2018)
+
  -->
