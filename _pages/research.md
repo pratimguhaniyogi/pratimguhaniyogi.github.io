@@ -56,20 +56,4 @@ Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu (2019
 
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
     [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf}).
-    Technical Report (2018)
-
-
-<!--         
-<ol>
-  <li> **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
-        _Functional varying-coefficient model under heteroskedasticity with application to DTI data._ 
-        <u> arXiv preprint </u> arXiv:2207.08373 (2022). 
-        [link](https://arxiv.org/pdf/2207.08373.pdf) </li>
-
-   <li> Kanjana Thana, Alla Sikorskii, Rebecca Lehto, **Pratim Guha Niyogi**, Sarah Brewer, David Victorson, Thaddeus Pace, Terry Badger, and Gwen Wyatt. 
-      Family caregivers of those with cancer: quality of life outcomes from a sequential multiple assignment randomized trial.
-      <u> Supportive Care in Cancer </u> 30, no. 7 (2022): 5891-5902 
-      [link]([https://arxiv.org/pdf/2207.08373.pdf](https://link.springer.com/article/10.1007/s00520-022-07012-7)) </li>
-<!--   <li>Milk</li> -->
-</ol>
- -->
+    <u> Technical Report </u> (2018)
