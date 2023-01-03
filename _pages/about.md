@@ -30,9 +30,10 @@ As for my background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolka
 
 When I am not working, I usually experiment with cooking, especially Indian and Chinese food and listen to Indian classical music. I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
-Thanks for stopping by at my website! 
 
 <b> If you want to reach out for collaboration, discussion or just to chat, please feel free to email me at pnyogi1@jhmi.edu. (I check my email regularly) </b>
+
+Thanks for stopping by at my website! 
 
 
 contact informations
