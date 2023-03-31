@@ -31,8 +31,8 @@ range of problems that are significant in various fields, particularly neuroimag
 studies, and other related health sciences.
 
 I received my PhD degree in [Statistics](https://stt.natsci.msu.edu/) from Michigan State University (MSU) under the
-supervision of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). In my dissertation titled * Novel Methods for Functional Data Analysis with Applications to Neuroimaging
-Studies *, I studied estimation problems for semi-parametric functional regression and
+supervision of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). In my dissertation titled *Novel Methods for Functional Data Analysis with Applications to Neuroimaging
+Studies*, I studied estimation problems for semi-parametric functional regression and
 developed statistical methodologies in functional data analysis for complex-structured
 neuroimaging data. Additionally, I worked with [Dr. Alla Sikorskii](https://cancer.msu.edu/faculty/sikorskii-alla) as a research assistant
 at MSU’s College of Nursing, where I gained valuable experience working with real data
