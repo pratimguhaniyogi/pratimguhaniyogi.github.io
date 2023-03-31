@@ -18,22 +18,51 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, this is Pratim. I am a postdoctoral fellow in the [Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/departments/biostatistics) mentored by [Dr. Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/). 
+I am a researcher in Statistics, currently a postdoctoral fellow in the [Department of
+Biostatistics at Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/departments/biostatistics) mentored by [Dr.
+Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/). This research is supported partially by the research agreement
+between Johns Hopkins University and Takeda Pharmaceuticals.
 
-My research primarily focuses on functional data analysis and modeling of massive and complex data. Some of my other research interests are distributional data analysis, high dimensional statistical methods and nonparametric statistical methods. I am passionate about theoretical and methodological problems in statistics that have wide range of applications in modern science and industry especially in the field of neuroimaging and health sciences.
+My research focuses on functional data analyses and development of models that can
+handle large and complex datasets. Some of my other research interests extend to
+distributional data analysis, high-dimensional statistical methods, and nonparametric
+techniques. As a methodological statistician, I am dedicated to addressing a diverse
+range of problems that are significant in various fields, particularly neuroimaging, sleep
+studies, and other related health sciences.
 
-I received my PhD degree in [Statistics](https://stt.natsci.msu.edu/) from  [Michigan State University (MSU)](https://msu.edu/) under the supervison of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/) where I worked on the development of statistical methodologies in functional data analysis with the application in neuroimaging. Simultaneously, I have over 3 years of experience as research assistant on a project in the College of Nursing at MSU with [Dr. Alla Sikorskii](https://psychiatry.msu.edu/about/faculty-directory/Sikorskii.html). This project dealt with cancer patients and their caregivers that gave me an exposure in dealing with real patient data and was a learning opportunity in terms of handling raw data, assuring data quality, managing data and conducting the statistical analyses. It was a fulfilling experience for me to contribute to cancer patients and survivors although indirectly. I also have experience in working at national labs and conducting collaborative research at various academic institutions during my doctoral training.
+I received my PhD degree in [Statistics](https://stt.natsci.msu.edu/) from Michigan State University (MSU) under the
+supervision of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). In my dissertation titled * Novel Methods for Functional Data Analysis with Applications to Neuroimaging
+Studies *, I studied estimation problems for semi-parametric functional regression and
+developed statistical methodologies in functional data analysis for complex-structured
+neuroimaging data. Additionally, I worked with [Dr. Alla Sikorskii](https://cancer.msu.edu/faculty/sikorskii-alla) as a research assistant
+at MSU’s College of Nursing, where I gained valuable experience working with real data
+on cancer patients and their caregivers. During my doctoral training, I also completed
+internships that allowed me to work with national labs and participate in collaborative
+research at various academic institutions. Prior to these, I completed Bachelor of
+Science with Honors (B.Sc. (H)) from [Presidency University, Kolkata, India](https://www.presiuniv.ac.in/web/) and Master of
+Statistics (M.Stat.) from the [Indian Statistical Institute (ISI)](https://www.isical.ac.in/).
 
-Apart from research, I am also passionate about teaching. I have had experience of teaching and tutoring undergraduate statistics students at MSU for over 4 years. My teaching philosophy has developed from my own experiences as a student and by observing my students. My experience so far has taught me to appreciate the diversity of cultural and educational background; present numerous examples; talk to the students regarding their problems and most importantly create an approachable and inclusive environment in the class for the utmost benefit of students. I look forward to a career involving active reasearch and teaching.
+In addition to my research pursuits, I have a keen interest in the field of teaching. I have
+had the privilege of serving as a tutor and instructor at MSU for over four years. My
+teaching philosophy is informed by my personal experiences as a student and my
+observations of my own students. Through my experience, I have come to appreciate
+the importance of recognizing and accommodating diverse cultural and educational
+backgrounds, providing a wealth of illustrative examples, engaging with students to
+address their concerns, and above all, cultivating an environment that is inclusive and
+accessible to all learners. I am enthusiastic about pursuing a career that allows me to
+continue both my research and teaching endeavors.
 
-As for my background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. I went to Hare School, Kolkata for my school education. After that, I received a *Bachelor of Science with Honors (B.Sc. (H))* from [Presidency University, Kolkata](https://www.presiuniv.ac.in/web/) which is an esteemed institution whose alumni consist of renowned personalities, including some nobel laureates. During my school and college days, I spent 13 years of my life roaming around Kolkata's College Street, which is home to the largest collection of second hand books in the world. I have been intellectually stimulated in this wonderful environment with scent of new and old books,. This palce has perhps shaped me for who I am and therefore deserves a mention in my bio. I was selected to study *Master of Statistics (M.Stat.)* at [Indian Statistical Institute (ISI)](https://www.isical.ac.in/) which is a well-known institute for research in statistics, mathematics and economics. In 2016, I set foot in USA for pursuing a PhD in Statistics at Michigan State University, which is also home to many well-known statisticians. 
+As for my personal background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in
+a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. When I am not working, I like to travel. In my free-time I usually
+experiment with cooking, especially Indian and Chinese food and try out new restaurants!
+I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
-When I am not working, I usually experiment with cooking, especially Indian and Chinese food and listen to Indian classical music. I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
+<b> If you want to reach out for collaboration, discussion or just to chat, please feel free to
+email me at pnyogi1@jhmi.edu. </b> (I check my email regularly)
 
-<b> If you want to reach out for collaboration, discussion or just to chat, please feel free to email me at pnyogi1@jhmi.edu. (I check my email regularly) </b>
+Thanks for stopping by my website!
 
-Thanks for stopping by at my website! 
 
 
 contact informations
