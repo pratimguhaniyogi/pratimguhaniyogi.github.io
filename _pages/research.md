@@ -30,9 +30,10 @@ Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en
 ---
 <h3> Publications </h3>
 
+**Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://arxiv.org/abs/2303.16443). _arXiv preprint_ arXiv:2303.16443 (2023).
+
 **Pratim Guha Niyogi** and Subhra Sankar Dhar. [Inspecting differences between multivariate distributions: graphical tool-kit and related tests](https://arxiv.org/pdf/2301.01345.pdf). 
     _arXiv preprint_ arXiv:2301.01345 (2023).
-
 
 **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
         [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/pdf/2207.08373.pdf).
