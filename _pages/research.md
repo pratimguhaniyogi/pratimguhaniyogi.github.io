@@ -24,7 +24,7 @@ nav_order: 2
     </ol></li>
 </ol>
     
-I have a broad research interests in theoretical and methodological research in Statistics motivated by fundamental applications in neuroimaging and other interdisciplinary collaborations. 
+I have broad research interests in theoretical and methodological research in Statistics motivated by fundamental applications in neuroimaging and other interdisciplinary collaborations. 
 Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
 
 ---
@@ -32,7 +32,7 @@ Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en
 
 **Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://arxiv.org/abs/2303.16443). _arXiv preprint_ arXiv:2303.16443 (2023).
 
-**Pratim Guha Niyogi** and Subhra Sankar Dhar. [Inspecting differences between multivariate distributions: graphical tool-kit and related tests](https://arxiv.org/pdf/2301.01345.pdf). 
+**Pratim Guha Niyogi** and Subhra Sankar Dhar. [Inspecting discrepancy between multivariate distributions using half-space depth based information criteria](https://arxiv.org/pdf/2301.01345.pdf). 
     _arXiv preprint_ arXiv:2301.01345 (2023).
 
 **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
