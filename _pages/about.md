@@ -20,15 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a researcher in Statistics, currently a postdoctoral fellow in the [Department of
 Biostatistics at Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/departments/biostatistics) mentored by [Dr.
-Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/). This research is supported partially by the research agreement
-between Johns Hopkins University and Takeda Pharmaceuticals.
+Vadim Zipunnikov](https://www.biostat.jhsph.edu/~vzipunni/). 
 
-My research focuses on functional data analyses and development of models that can
+My research focuses on functional data analyses and the development of models that can
 handle large and complex datasets. Some of my other research interests extend to
 distributional data analysis, high-dimensional statistical methods, and nonparametric
 techniques. As a methodological statistician, I am dedicated to addressing a diverse
-range of problems that are significant in various fields, particularly neuroimaging, sleep
-studies, and other related health sciences.
+range of problems that are significant in various fields, particularly neuroimaging, digital health technologies, and other related health sciences.
 
 I received my PhD degree in [Statistics](https://stt.natsci.msu.edu/) from Michigan State University (MSU) under the
 supervision of [Dr. Pingshou Zhong](https://mscs.uic.edu/profiles/pszhong/) and [Dr. Tapabrata (Taps) Maiti](https://stt.msu.edu/users/maiti/). In my dissertation titled *Novel Methods for Functional Data Analysis with Applications to Neuroimaging
@@ -52,9 +50,9 @@ address their concerns, and above all, cultivating an environment that is inclus
 accessible to all learners. I am enthusiastic about pursuing a career that allows me to
 continue both my research and teaching endeavors.
 
-As for my personal background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in
-a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. When I am not working, I like to travel. In my free-time I usually
-experiment with cooking, especially Indian and Chinese food and try out new restaurants!
+As for my personal background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in the state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in
+a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. When I am not working, I like to travel. In my free time, I usually
+experiment with cooking, especially Indian and Chinese food, and try out new restaurants!
 I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
 
