@@ -23,21 +23,24 @@ nav_order: 2
         <li>Health Sciences</li>
     </ol></li>
 </ol>
-    
-I have broad research interests in theoretical and methodological research in Statistics motivated by fundamental applications in neuroimaging and other interdisciplinary collaborations. 
-Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detail research statement please email me at *pnyogi1@jhmi.edu*.
+
+I have broad research interests in theoretical and methodological research in Statistics motivated by fundamental applications in wearables, neuroimaging, and other related health sciences. 
+Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detailed research statement please email me at *pnyogi1@jhmi.edu*.
 
 ---
 <h3> Publications </h3>
 
-**Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://arxiv.org/abs/2303.16443). _arXiv preprint_ arXiv:2303.16443 (2023).
+**Pratim Guha Niyogi** and Ping-Shou Zhong. [Quadratic inference with dense functional responses](https://arxiv.org/abs/2402.13907). _arXiv preprint_ arXiv:2402.13907 (2024)
 
 **Pratim Guha Niyogi** and Subhra Sankar Dhar. [Inspecting discrepancy between multivariate distributions using half-space depth based information criteria](https://arxiv.org/pdf/2301.01345.pdf). 
     _arXiv preprint_ arXiv:2301.01345 (2023).
 
 **Pratim Guha Niyogi**, Ping-Shou Zhong, and Xiaohong Joe Zhou. 
-        [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/pdf/2207.08373.pdf).
+        [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/abs/2207.08373).
         _arXiv preprint_ arXiv:2207.08373 (2022). 
+
+**Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://arxiv.org/abs/2303.16443). 
+        _arXiv preprint_ arXiv:2303.16443 (2023). (Accepted for publication)
 
 Kanjana Thana, Alla Sikorskii, Rebecca Lehto, **Pratim Guha Niyogi**, Sarah Brewer, David Victorson, Thaddeus Pace, Terry Badger, and Gwen Wyatt. 
       [Family caregivers of those with cancer: quality of life outcomes from a sequential multiple assignment randomized trial](https://link.springer.com/article/10.1007/s00520-022-07012-7)).
