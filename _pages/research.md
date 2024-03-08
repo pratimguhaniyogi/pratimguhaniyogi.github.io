@@ -25,7 +25,8 @@ nav_order: 2
 </ol>
 
 I have broad research interests in theoretical and methodological research in Statistics motivated by fundamental applications in wearables, neuroimaging, and other related health sciences. 
-Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. To get my detailed research statement please email me at *pnyogi1@jhmi.edu*.
+Please click [here](https://scholar.google.com/citations?user=k62UkCEAAAAJ&hl=en) for the list of publications. 
+For inquiries regarding my detailed research statement, please contact me via email at _pnyogi1@jhmi.edu_.
 
 ---
 <h3> Publications </h3>
