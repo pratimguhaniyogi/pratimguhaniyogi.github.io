@@ -57,7 +57,7 @@ I keep on trying new things from time to time, from painting to photography, fro
 
 
 <b> If you want to reach out for collaboration, discussion or just to chat, please feel free to
-email me at pnyogi1@jhmi.edu. </b> (I check my email regularly)
+email me at pnyogi1@jhmi.edu. </b>
 
 Thanks for stopping by my website!
 
