@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course page and informations
+description: Course page and information
 nav: true
 nav_order: 3
 ---
@@ -17,4 +17,4 @@ At `Michigan State University`:
 - TA, STT 200 (Online): Statistical Methods (Fall 2016)
 - Tutor, Statistical Learning Center (Fall 2016, Spring 2017, Summer 2017, Spring 2022) 
 
-I have taken a seminar-style course AAE 452 (at MSU) "English Course Language of American Classroom for International TAs" course to understand classroom teaching better with practical experience. To get my teaching statement with teaching philosophy please email me at *pnyogi1@jhmi.edu*.
+For inquiries regarding my teaching statement and philosophy, please contact me via email at _pnyogi1@jhmi.edu_.
