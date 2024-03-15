@@ -8,5 +8,3 @@ nav_order: 5
 ---
 
 My complete CV can be found here.
-
-My one page résumé can be found here.
