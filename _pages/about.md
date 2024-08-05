@@ -53,7 +53,6 @@ continue both my research and teaching endeavors.
 As for my personal background, I grew up in [Kolkata](https://en.wikipedia.org/wiki/Kolkata), in the state of West Bengal, [India](https://en.wikipedia.org/wiki/India) in
 a [Bengali](https://en.wikipedia.org/wiki/Bengalis) family. When I am not working, I like to travel. In my free time, I usually
 experiment with cooking, especially Indian and Chinese food, and try out new restaurants!
-I keep on trying new things from time to time, from painting to photography, from writing poetry to reading about history. 
 
 
 <b> If you want to reach out for collaboration, discussion or just to chat, please feel free to
