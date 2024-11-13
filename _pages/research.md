@@ -35,10 +35,10 @@ For inquiries regarding my detailed research statement, please contact me via em
 
 **Pratim Guha Niyogi** and Subhra Sankar Dhar. [Identifying arbitrary transformation between the slopes in functional regression](https://arxiv.org/pdf/2407.19502). _arXiv preprint_ arXiv:2407.19502 (2024)
 
-**Pratim Guha Niyogi** and Ping-Shou Zhong. [Quadratic inference with dense functional responses](https://arxiv.org/abs/2402.13907). _arXiv preprint_ arXiv:2402.13907 (2024)
-
 **Pratim Guha Niyogi** and Subhra Sankar Dhar. [Inspecting discrepancy between multivariate distributions using half-space depth based information criteria](https://arxiv.org/pdf/2301.01345.pdf). 
     _arXiv preprint_ arXiv:2301.01345 (2023).
+
+**Pratim Guha Niyogi** and Ping-Shou Zhong. [Quadratic inference with dense functional responses](https://arxiv.org/abs/2402.13907). _arXiv preprint_ arXiv:2402.13907 (2024) (Scientifically accepted)
 
 **Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://ieeexplore.ieee.org/abstract/document/10466427). IEEE Transactions on Signal Processing (2024).
 
