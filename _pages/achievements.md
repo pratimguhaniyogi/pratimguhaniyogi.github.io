@@ -17,4 +17,4 @@ nav_order: 4
 * INSPIRE Scholarship, from Department of Science and Technology, Government of India, 2011-2016, INR 5,000 per month
 * Senior Scholarship from Jagadis Bose National Science Talent Search (JBNSTS), 2011
 * Qualified Regional Mathematical Olympiad (RMO), West Bengal Region, organised by National Board of Higher Mathematics (NBHM), India, 2010
-* Qualified Mathematical Competence Test organized by Association for Improvement of Mathematics Teaching (A.I.M.T), 2010
+* Qualified Mathematical Competence Test organized by Association for Improvement of Mathematics Teaching (AIMT), 2010
