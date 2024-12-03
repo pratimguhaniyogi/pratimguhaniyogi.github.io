@@ -44,7 +44,7 @@ For inquiries regarding my detailed research statement, please contact me via em
         [Functional varying-coefficient model under heteroskedasticity with application to DTI data](https://arxiv.org/abs/2207.08373).
         _arXiv preprint_ arXiv:2207.08373 (2024): _Statistica Sinica_ (Accepted).
 
-**Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://ieeexplore.ieee.org/abstract/document/10466427). IEEE Transactions on Signal Processing (2024).
+**Pratim Guha Niyogi**, Martin A. Lindquist, and Tapabrata Maiti. [A tensor based varying-coefficient model for multi-modal neuroimaging data analysis](https://ieeexplore.ieee.org/abstract/document/10466427). _IEEE Transactions on Signal Processing_ (2024).
 
 Kanjana Thana, Alla Sikorskii, Rebecca Lehto, **Pratim Guha Niyogi**, Sarah Brewer, David Victorson, Thaddeus Pace, Terry Badger, and Gwen Wyatt. 
       [Family caregivers of those with cancer: quality of life outcomes from a sequential multiple assignment randomized trial](https://link.springer.com/article/10.1007/s00520-022-07012-7).
