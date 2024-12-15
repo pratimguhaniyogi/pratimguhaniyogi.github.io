@@ -64,7 +64,7 @@ Alla Sikorskii, **Pratim Guha Niyogi**, David Victorson, Deimante Tamkus, and Gw
 
 Adhidev Biswas, Suman Majumder, **Pratim Guha Niyogi**, Ayanendranath Basu. 
 [A Weighted Likelihood Approach to Problems in Survival Data](https://link.springer.com/article/10.1007/s13571-019-00214-w).
-       _ Sankhya B_ 83, no. 2 (2019): 466-492.
+       _Sankhya B_ 83, no. 2 (2019): 466-492.
 
 Adhidev Biswas, **Pratim Guha Niyogi**, Suman Majumder, Subir K. Bhandari, Abhik Ghosh, Ayanendranath Basu.
     [Theoretical Properties of a New Weighted Likelihood Estimator for Right Censored Data](https://www.isical.ac.in/~isru/tr18a.pdf).
